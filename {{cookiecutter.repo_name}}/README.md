@@ -20,6 +20,7 @@
     |   ├── DENSS           <- Output of DENSS.
     |   ├── GNOM            <- Output of GNOM.
     |   ├── others          <- Output from other processing softwares.
+    |   ├── SUPALM          <- Output of SUPALM for alignment of high resolution model to DAMMIF.
     |   ├── SUPCOMB_dam     <- Output of SUPCOMB using the DAMMIF models.
     |   └── SUPCOMB_highres <- Output of SUPCOMB using a high resolution model.
     |
